@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skills 
+* Experience with a __wide__ range of programming languages, from assembly to Python.
+* Experience in a __wide__ range of computer science topics, from logic gates to machine learning.
+* Undeniably _decent_ at drawing.
